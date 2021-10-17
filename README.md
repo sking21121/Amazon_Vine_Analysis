@@ -35,3 +35,6 @@ The summary findings do indicate a positivity bias for Vine reviews versus non-V
 of paid reviews gave a 5 star grade compared to 46% of non-paid reviews. One detail that must be acknowledged is
 the fact that Vine rewiews data set is much smaller that non-vine reviews data set. So to compare the two data sets is not 
 fair and we need more Vine data to reach a total conclusion.
+
+An additional analysis I would recommend is to get the data on 4 star, 3 star, and 2 star reviews and then compare the paid versus
+non paid reviews. See if all ratings are biased toward paid reviews no matter what star ratings was given.
