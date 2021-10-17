@@ -21,7 +21,9 @@ I needed to determine if having a paid Vine review makes a difference in the per
 
   
   -What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+  
     Percentage of Vine reviews that were 5 stars: 57%
+    
     Percentage of non-Vine reviews that were 5 stars: 46%
   
   
