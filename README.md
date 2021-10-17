@@ -6,12 +6,23 @@ I needed to determine if having a paid Vine review makes a difference in the per
 
 -How many Vine reviews and non-Vine reviews were there?
 
-  The total number of reviews were 31,830.
+  The total number of Vine reviews were 285.
+  The total number of no-Vine reviews were 31,545.
+  
+![total_reviews2](https://user-images.githubusercontent.com/86200136/137648418-87850a8c-ce53-412a-948c-097f35e6f13c.png)
 
-![total_reviews](https://user-images.githubusercontent.com/86200136/137647665-329c312c-b1db-4e7b-ae39-e9c92fbae4fb.png)
 
 -How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-  The number of 5 star reviews were 14,777.
+  The number of 5 star Vine reviews were 163.
+  The number of 5 star non_Vine reviews were 14,614.
   
-![total_5star](https://user-images.githubusercontent.com/86200136/137647727-a119c8c2-e135-4572-a077-a77cdf64a93e.png)
+  ![5star_reviews](https://user-images.githubusercontent.com/86200136/137648639-4f3208b8-e44f-429a-ab85-fb88de79d24a.png)
+
+  
+  -What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+    Percentage of Vine reviews that were 5 stars: 57%
+    Percentage of non-Vine reviews that were 5 stars: 46%
+  
+  
+![percent_5star](https://user-images.githubusercontent.com/86200136/137648708-09892f79-ef61-49eb-91d0-a7d95229fe67.png)
